@@ -1,0 +1,2 @@
+# Python packages listed here are installed on top of the base Codespaces image.
+# The base image already provides ipykernel.
